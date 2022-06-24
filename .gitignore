@@ -1,0 +1,10 @@
+# Project exclude paths
+dist/
+env/
+build/
+logs/
+config.ini
+settings.ini
+test.py
+*.spec
+*.log
